@@ -1,5 +1,5 @@
 # end2end_music
-This is an implementation of ["End-to-end learning for music audio"](https://ieeexplore.ieee.org/abstract/document/6854950) by [Dieleman and Schrauwen (2014)](#References).
+This is a PyTorch implementation of ["End-to-end learning for music audio"](https://ieeexplore.ieee.org/abstract/document/6854950) by [Dieleman and Schrauwen (2014)](#References).
 
 
 ## Data
