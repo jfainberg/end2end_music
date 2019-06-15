@@ -19,4 +19,8 @@ if ! [ -d data ]; then
     rm mp3*
 fi
 
+
+mkdir -p wav
+ls data/a/*.mp3 | xargs -P 10 -I % sh -c 'f=`basename -s ".mp3" %`; ffmpeg -i % -acodec pcm_u8 -ar 16000 wav/$f.wav'
+
 echo "$0: Data downloaded successfully"
