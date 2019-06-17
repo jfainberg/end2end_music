@@ -12,4 +12,4 @@ Download and prepare the data by running `get_data.sh`. The remaining code is in
 [MagnaTagATune dataset](http://mirg.city.ac.uk/codeapps/the-magnatagatune-dataset)
 
 ## References
-- Dieleman, S. and Schrauwen, B., 2014, May. End-to-end learning for music audio. In 2014 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) (pp. 6964-6968). IEEE.
+- Dieleman, S. and Schrauwen, B., 2014, May. [End-to-end learning for music audio](https://ieeexplore.ieee.org/abstract/document/6854950). In 2014 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP) (pp. 6964-6968). IEEE.
